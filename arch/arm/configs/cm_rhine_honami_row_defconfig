@@ -815,6 +815,9 @@ CONFIG_CRYPTO_DEFLATE=y
 CONFIG_CRYPTO_ZLIB=y
 CONFIG_CRYPTO_LZO=y
 
+# Enable HW disk encryption
+CONFIG_HW_DISK_ENCRYPTION=y
+
 #
 # Random Number Generation
 #
